@@ -1,5 +1,8 @@
-# tugas-1-dragranzer
-tugas-1-dragranzer created by GitHub Classroom
+# Tugas 1
+Nama : Ivan Muhammad Nizar <br>
+NRP : 05111940000052 <br>
+Benda : Kayu <br>
+
 ## Depan Atas
 ![IMG20210921142333](https://user-images.githubusercontent.com/71221969/134236552-0e5b2a53-462c-4345-a1df-1de87dd9325c.jpg)
 
