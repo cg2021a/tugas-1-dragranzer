@@ -14,3 +14,6 @@ Benda : Kayu <br>
 
 ## Kanan Atas
 ![IMG20210921142358](https://user-images.githubusercontent.com/71221969/134236595-127919bf-8dad-42f4-9671-a8a069d489d6.jpg)
+
+## Deployment
+https://cg2021a.github.io/tugas-1-dragranzer/
