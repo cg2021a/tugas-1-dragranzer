@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    height: 100vh;
+    font-family: 'Poppins';
+}
+
+.webgl {
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+}
+
+#leaderboard {
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    font-size: 23px;
+    color: rgb(0, 0, 0);
+}
+
+.cursor {
+  cursor: pointer;
+}
